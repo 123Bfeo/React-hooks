@@ -1,0 +1,22 @@
+.Character {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cards {
+  margin: 10px;
+
+  border: solid 1px rgba(0, 0, 0, 0.185);
+  border-radius: 5px;
+  box-shadow: 3px 3px 4px rgba(56, 55, 55, 0.426);
+}
+.imgCards {
+  width: 16rem;
+  border-radius: 5px;
+}
+.detailCards {
+  margin-bottom: 5px;
+}
+.detail {
+  margin: 0;
+}
